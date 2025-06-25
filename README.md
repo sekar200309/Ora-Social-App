@@ -1,5 +1,9 @@
 # 📸 Ora – Social Media App (MERN Stack)
 
+
+
+> **Note:** The backend is hosted on the free Render service, which may cause the server to be in downtime when not in use. It can take a few seconds to a couple of minutes for the server to wake up and become responsive after a period of inactivity.
+
 **Live Demo**: [https://ora09.vercel.app](https://ora09.vercel.app)
 
 Ora is a full-stack Instagram-like social media application built using the MERN stack. Users can register, log in, upload posts with images, like, comment, save posts, and manage their profiles — all with a clean, responsive UI.
