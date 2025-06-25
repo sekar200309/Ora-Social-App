@@ -39,20 +39,22 @@ Ora-Social-App/
 
 ## 🖼️ UI Screenshots
 
-### Desktop View:
+<div align="center">
 
-![Image](https://github.com/user-attachments/assets/0d08632e-aeb3-4c8d-a3bb-d7a968f18ee3)
-![Image](https://github.com/user-attachments/assets/0ddafc72-12d4-4f1a-a96c-7e25b47dbc17)
-![Image](https://github.com/user-attachments/assets/79c22edf-90d7-4e6e-99ab-8c9dc43a4d9e)
-![Image](https://github.com/user-attachments/assets/85eb58d7-2f69-4dab-8458-3b3cf28584e5)
-![Image](https://github.com/user-attachments/assets/dee1d1e6-d464-4f3d-944e-862e221e7e9a)
-![Image](https://github.com/user-attachments/assets/ccc819f1-ea5b-45fd-8cab-491520e7f6ca)
-![Image](https://github.com/user-attachments/assets/b5b92e01-bee5-493e-9ba4-cb1834883596)
+<!-- Desktop Screenshots -->
+<img src="https://github.com/user-attachments/assets/0d08632e-aeb3-4c8d-a3bb-d7a968f18ee3" alt="Desktop 1" width="350" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/0ddafc72-12d4-4f1a-a96c-7e25b47dbc17" alt="Desktop 2" width="350" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/79c22edf-90d7-4e6e-99ab-8c9dc43a4d9e" alt="Desktop 3" width="350" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/85eb58d7-2f69-4dab-8458-3b3cf28584e5" alt="Desktop 4" width="350" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/dee1d1e6-d464-4f3d-944e-862e221e7e9a" alt="Desktop 5" width="350" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/ccc819f1-ea5b-45fd-8cab-491520e7f6ca" alt="Desktop 6" width="350" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/b5b92e01-bee5-493e-9ba4-cb1834883596" alt="Desktop 7" width="350" style="margin:10px;"/>
 
-### Mobile View:
+<!-- Mobile Screenshots -->
+<img src="https://github.com/user-attachments/assets/f23f0316-1d43-47d9-8119-ce9cb27a0ed4" alt="Mobile 1" width="200" style="margin:10px;"/>
+<img src="https://github.com/user-attachments/assets/deb0027e-2f0d-4fdf-a8d8-c43e72ae0944" alt="Mobile 2" width="200" style="margin:10px;"/>
 
-![Image](https://github.com/user-attachments/assets/f23f0316-1d43-47d9-8119-ce9cb27a0ed4)
-![Image](https://github.com/user-attachments/assets/deb0027e-2f0d-4fdf-a8d8-c43e72ae0944)
+</div>
 
 ---
 
