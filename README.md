@@ -1,7 +1,5 @@
 # 📸 Ora – Social Media App (MERN Stack)
 
-
-
 > **Note:** The backend is hosted on the free Render service, which may cause the server to be in downtime when not in use. It can take a few seconds to a couple of minutes for the server to wake up and become responsive after a period of inactivity.
 
 **Live Demo**: [https://ora09.vercel.app](https://ora09.vercel.app)
@@ -145,6 +143,13 @@ npm start
 
 ---
 
+## 📄 Phase-wise Documentation
+
+You can find the phase-wise project documents here:  
+**[Google Drive Folder - Phase-wise Docs](https://drive.google.com/drive/folders/1IHYKsJZhsnWf5r4Jv2Drxo0fIb47793h?usp=drive_link)**
+
+---
+
 ## 🐞 Known Issues
 
 * No real-time features (e.g., notifications)
@@ -166,7 +171,7 @@ npm start
 
 ## 🙌 Author
 
-**Sekar D** – MERN Stack Intern at SmartBridge  
+**Sekar D** 
 📫 [sekardurai142003@gmail.com](mailto:sekardurai142003@gmail.com)
 
 ---
